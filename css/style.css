@@ -1,0 +1,35 @@
+body {
+    color:blue;
+    background-color: aliceblue;
+    font-family: 'Arial' ,'sans-serif';
+    font-size: 20px;
+}
+header {
+color:white;
+background-color: darkblue;
+margin:20px auto;
+padding: 40px 40px 40px 40px;
+border-color: chocolate;
+border-style: solid;
+border-radius: 64px;
+box-shadow: 5px 5px 10px rgba(135, 13, 131,0.5);
+}
+#forma {
+    background-color: rgb(135, 13, 131);
+}
+b,i,del {
+    background-color: aquamarine;
+}
+.main-title {
+color:brown;
+font-size: 50px;
+}
+.site-menu{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin: 20px;
+}
+.site-menu li {
+     padding: 20px;
+}
